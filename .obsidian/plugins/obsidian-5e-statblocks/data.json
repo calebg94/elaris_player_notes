@@ -1,0 +1,561 @@
+{
+  "monsters": [
+    [
+      "Blightbound Dryads",
+      {
+        "name": "Blightbound Dryads",
+        "size": "medium",
+        "type": "fey (corrupted)",
+        "image": "<STATBLOCK-WIKI-LINK>blighted_dryad.png<STATBLOCK-WIKI-LINK>",
+        "ac": "14 (natural armor)",
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          12,
+          11,
+          14,
+          15
+        ],
+        "saves": [
+          {
+            "Str": 10
+          },
+          {
+            "Dex": 12
+          },
+          {
+            "Con": 12
+          },
+          {
+            "Wis": 14
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 4
+          },
+          {
+            "Nature": 3
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "damage_resistances": "Necrotic, Psychic; Bludgeoning and Piercing from Nonmagical Attacks",
+        "damage_immunities": "Poison",
+        "condition_immunities": "Charmed, Frightened, Poisoned",
+        "senses": "Darkvision 60 ft., Passive Perception 14",
+        "languages": "Common, Sylvan",
+        "cr": 1,
+        "spells": [
+          {
+            "At will": "druidcraft, thorn whip"
+          },
+          {
+            "1/day": "entangle, faerie fire, barkskin (self only)"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Corrupted Roots",
+            "desc": "The dryad's blight infects the ground. Difficult terrain extends in a 10 ft. radius around her unless she chooses otherwise."
+          },
+          {
+            "name": "Blighted Charm",
+            "desc": "As an actionthe dryad can attempt to beguile one humanoid she can see within 30 feet. The target must succeed on a DC 13 Wisdom saving throw or be charmed for 1 minute. While charmed this waythe creature is poisoned. The target can repeat the save at the end of each of its turns."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Thornlash (Melee)",
+            "desc": "+4 to hitreach 10 ft.one target. Hit - 7 (1d8 + 3) piercing damage and the target must succeed on a DC 12 Strength saving throw or be pulled 5 feet closer to the dryad."
+          },
+          {
+            "name": "Vineburst (Recharge 5–6)",
+            "desc": "Roots erupt in a 15 ft. cone. Each creature in the area must succeed on a DC 13 Dexterity saving throw or take 2d6 necrotic damage and be restrained until the end of their next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Twisting Veil",
+            "desc": "The dryad becomes lightly obscured in shadow and decay until the start of her next turngiving her +2 AC against ranged attacks."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Root Snare",
+            "desc": "When a creature within 5 feet movesthe dryad can attempt to entangle it. The target must succeed on a DC 12 Strength saving throw or have its speed reduced to 0 until the end of its turn."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Corrupted Vine Horror",
+      {
+        "name": "Corrupted Vine Horror",
+        "size": "medium",
+        "type": "plant (corrupted)",
+        "image": "<STATBLOCK-WIKI-LINK>vine_horror.png<STATBLOCK-WIKI-LINK>",
+        "ac": "12 (natural armor)",
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "speed": "10 ft.",
+        "stats": [
+          15,
+          8,
+          14,
+          5,
+          10,
+          3
+        ],
+        "saves": [
+          {
+            "Str": 15
+          },
+          {
+            "Dex": 8
+          },
+          {
+            "Con": 14
+          },
+          {
+            "Wis": 10
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 2
+          }
+        ],
+        "damage_resistances": "Bludgeoning and Piercing from Nonmagical Attacks",
+        "damage_immunities": "Poison",
+        "condition_immunities": "Blinded, Deafened, Poisoned",
+        "senses": "Blindsight 60 ft. (blind beyond this radius), Passive Perception 10",
+        "languages": "Understands Common and Sylvan but cannot speak",
+        "cr": "1/2",
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the vine horror remains motionlessit is indistinguishable from a tangle of corrupted vines."
+          },
+          {
+            "name": "Corrupted Terrain",
+            "desc": "The vine horror causes the area in a 10-foot radius around it to become difficult terrain for non-plant creatures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Constrict (Melee)",
+            "desc": "+4 to hitreach 10 ft.one creature. Hit - 9 (2d6 + 2) bludgeoning damageand the target is grappled (escape DC 12). Until the grapple endsthe target is restrainedand the vine horror can’t constrict another target."
+          },
+          {
+            "name": "Corruption Pulse (Recharge 5–6)",
+            "desc": "The vine horror emits a wave of toxic pollen. Each creature within 10 ft. must succeed on a DC 12 Constitution saving throw or be poisoned until the end of their next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Creeping Roots",
+            "desc": "The vine horror moves up to 10 feet by burrowing beneath the soil. This movement does not provoke opportunity attacks."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Tangle Reflex",
+            "desc": "When a creature within 5 feet hits the vine horror with a melee attackvines lash out in retaliation. The attacker must succeed on a DC 12 Strength saving throw or have their speed halved until the end of their next turn."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Flickering Dragonkin Spirit",
+      {
+        "name": "Flickering Dragonkin Spirit",
+        "size": "medium",
+        "type": "undead",
+        "image": "<STATBLOCK-WIKI-LINK>dragonkin_spirit.png<STATBLOCK-WIKI-LINK>",
+        "ac": 12,
+        "hp": 18,
+        "hit_dice": "4d6 + 4",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          14,
+          12,
+          6,
+          10,
+          13
+        ],
+        "saves": [
+          {
+            "Str": 12
+          },
+          {
+            "Dex": 14
+          },
+          {
+            "Con": 12
+          },
+          {
+            "Wis": 10
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 4
+          },
+          {
+            "Intimidation": 3
+          }
+        ],
+        "damage_resistances": "Fire, Lightning, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+        "damage_immunities": "Cold, Necrotic, Poison",
+        "condition_immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained",
+        "senses": "Darkvision 60 ft., Passive Perception 10",
+        "languages": "Draconic, understands Common but can’t speak",
+        "cr": "1/4",
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Flickering Form",
+            "desc": "The spirit shimmers erratically. Attack rolls against it have disadvantage the first time a creature targets it on their turn."
+          },
+          {
+            "name": "Ethereal Glimmer",
+            "desc": "The dragonkin can partially phase out of realitygiving it resistance to force damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Spirit Claw (Melee)",
+            "desc": "+4 to hitreach 5 ft.one target. Hit- 6 (1d6 + 3) necrotic damage. The target must succeed on a DC 11 Constitution saving throw or have disadvantage on its next attack roll."
+          },
+          {
+            "name": "Flickering Howl (1/Day)",
+            "desc": "Emits a haunting roar. Each creature within 10 ft. must succeed on a DC 12 Wisdom saving throw or become frightened until the end of their next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Drift Step",
+            "desc": "The dragonkin can move up to 20 feet without provoking opportunity attacks."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Echo Dodge",
+            "desc": "When hit by an attackthe dragonkin can vanish momentarilycausing the attacker to reroll the attack with disadvantage (1/short rest)."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ghostly Monk Initiates",
+      {
+        "name": "Ghostly Monk Initiates",
+        "size": "medium",
+        "type": "undead",
+        "image": "<STATBLOCK-WIKI-LINK>ghost_monk.png<STATBLOCK-WIKI-LINK>",
+        "ac": 13,
+        "hp": 27,
+        "hit_dice": "6d8",
+        "speed": "40 ft.",
+        "stats": [
+          10,
+          16,
+          10,
+          11,
+          14,
+          9
+        ],
+        "saves": [
+          {
+            "Str": 10
+          },
+          {
+            "Dex": 16
+          },
+          {
+            "Con": 10
+          },
+          {
+            "Wis": 14
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 4
+          },
+          {
+            "Acrobatics": 5
+          }
+        ],
+        "damage_resistances": "Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+        "damage_immunities": "Cold, Necrotic, Poison",
+        "condition_immunities": "Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained",
+        "senses": "Darkvision 60 ft., Passive Perception 14",
+        "languages": "Common, Draconic",
+        "cr": "1/2",
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+          },
+          {
+            "name": "Ethereal Step",
+            "desc": "The monk can enter the Ethereal Plane from the Material Planeor vice versaas a bonus action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Ghost Fist (Melee)",
+            "desc": "+4 to hitreach 5 ft.one target. Hit -  6 (1d6 + 2) force damage. Target must succeed on a DC 12 Wisdom saving throw or be stunned until the end of their next turn."
+          },
+          {
+            "name": "Martial Echo (Recharge 5–6)",
+            "desc": "The monk makes two spectral strikes. Each strike must target a different creature."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Step of the Shades",
+            "desc": "The monk may Dash or Disengage using ghostly momentum without provoking opportunity attacks."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Ghost Counter",
+            "desc": "When a creature misses the monk with a melee attackthe monk can make one Ghost Fist attack against that creature."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Hollowfang Wolf",
+      {
+        "name": "Hollowfang Wolf",
+        "size": "medium",
+        "type": "undead",
+        "image": "<STATBLOCK-WIKI-LINK>hollowfang_wolf.png<STATBLOCK-WIKI-LINK>",
+        "ac": "14 (bone-plated hide)",
+        "hp": 39,
+        "hit_dice": "6d8 + 12",
+        "speed": "50 ft.",
+        "stats": [
+          16,
+          14,
+          14,
+          6,
+          12,
+          7
+        ],
+        "saves": [
+          {
+            "Str": 16
+          },
+          {
+            "Dex": 14
+          },
+          {
+            "Con": 14
+          },
+          {
+            "Wis": 12
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 4
+          }
+        ],
+        "damage_resistances": "Necrotic, Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks",
+        "damage_immunities": "Poison",
+        "condition_immunities": "Charmed, Frightened, Exhaustion, Poisoned",
+        "senses": "Darkvision 60 ft., Passive Perception 14",
+        "languages": "Understands Common and Sylvan, cannot speak",
+        "cr": 2,
+        "spells": [
+          "none"
+        ],
+        "traits": [
+          {
+            "name": "Undead Nature",
+            "desc": "The Hollowfang Wolf does not require airfooddrinkor sleep."
+          },
+          {
+            "name": "Pack Ambush",
+            "desc": "The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and isn't incapacitated."
+          },
+          {
+            "name": "Haunting Howl (Recharge 6)",
+            "desc": "As an actionthe wolf releases a terrifying howl. Each creature within 30 feet that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened until the end of their next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Hollow Bite (Melee)",
+            "desc": "+5 to hitreach 5 ft.one target. Hit -  11 (2d6 + 4) piercing damageand the target must make a DC 12 Constitution saving throw or take 5 (1d10) necrotic damage as soul essence is drained."
+          },
+          {
+            "name": "Pounce",
+            "desc": "If the wolf moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turnthat target must succeed on a DC 13 Strength saving throw or be knocked prone."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Shadowstep",
+            "desc": "The Hollowfang can teleport up to 20 feet to an unoccupied space it can see in dim light or darkness."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Evasive Dash",
+            "desc": "When a creature misses the Hollowfang with a melee attackit can move up to half its speed without provoking opportunity attacks."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Blightbound Dryad",
+      {
+        "name": "Blightbound Dryad",
+        "size": "medium",
+        "type": "fey (corrupted)",
+        "image": "<STATBLOCK-WIKI-LINK>blighted_dryad.png<STATBLOCK-WIKI-LINK>",
+        "ac": "14 (natural armor)",
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          12,
+          11,
+          14,
+          15
+        ],
+        "saves": [
+          {
+            "Str": 10
+          },
+          {
+            "Dex": 12
+          },
+          {
+            "Con": 12
+          },
+          {
+            "Wis": 14
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 4
+          },
+          {
+            "Nature": 3
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "damage_resistances": "Necrotic, Psychic; Bludgeoning and Piercing from Nonmagical Attacks",
+        "damage_immunities": "Poison",
+        "condition_immunities": "Charmed, Frightened, Poisoned",
+        "senses": "Darkvision 60 ft., Passive Perception 14",
+        "languages": "Common, Sylvan",
+        "cr": 1,
+        "spells": [
+          {
+            "At will": "druidcraft, thorn whip"
+          },
+          {
+            "1/day": "entangle, faerie fire, barkskin (self only)"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Corrupted Roots",
+            "desc": "The dryad's blight infects the ground. Difficult terrain extends in a 10 ft. radius around her unless she chooses otherwise."
+          },
+          {
+            "name": "Blighted Charm",
+            "desc": "As an actionthe dryad can attempt to beguile one humanoid she can see within 30 feet. The target must succeed on a DC 13 Wisdom saving throw or be charmed for 1 minute. While charmed this waythe creature is poisoned. The target can repeat the save at the end of each of its turns."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Thornlash (Melee)",
+            "desc": "+4 to hitreach 10 ft.one target. Hit - 7 (1d8 + 3) piercing damage and the target must succeed on a DC 12 Strength saving throw or be pulled 5 feet closer to the dryad."
+          },
+          {
+            "name": "Vineburst (Recharge 5–6)",
+            "desc": "Roots erupt in a 15 ft. cone. Each creature in the area must succeed on a DC 13 Dexterity saving throw or take 2d6 necrotic damage and be restrained until the end of their next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Twisting Veil",
+            "desc": "The dryad becomes lightly obscured in shadow and decay until the start of her next turngiving her +2 AC against ranged attacks."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Root Snare",
+            "desc": "When a creature within 5 feet movesthe dryad can attempt to entangle it. The target must succeed on a DC 12 Strength saving throw or have its speed reduced to 0 until the end of its turn."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "3-Mechanics"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": true
+}

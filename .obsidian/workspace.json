@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8c2b3096302cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "959c36b0aed8c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-DM Toolkit/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-Campaign/Sol'Vareth Encounters/The Lantern Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Lantern Vault"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-Campaign/Sol'Vareth Encounters/The Lantern Vault.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Lantern Vault"
+            }
+          },
+          {
+            "id": "89c85e720490d000",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1d54d43c1cb242fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "8a1f143d9b4d421b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "b44e9da2382fdfc3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0455b762a58a34af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5aba74d3378dd8",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 579.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "2911de48d50d504c",
+  "lastOpenFiles": [
+    "3-Mechanics/Where To Get Mechanics.md",
+    "3-Mechanics/Guilds and Groups/The Veylas Tribes.md",
+    "3-Mechanics/Guilds and Groups/The Luminous Compact.md",
+    "3-Mechanics/Guilds and Groups/The Final Harmony.md",
+    "3-Mechanics/Guilds and Groups/The Crimson Dominion.md",
+    "2-World/Elaris/Varkuun.md",
+    "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/Journey Board.md",
+    "1-DM Toolkit/Home.md",
+    "3-Mechanics/NPCs/Varnok.md",
+    "1-Session Journals/2025-04-19.md",
+    "2-Campaign/Sol'Vareth Encounters/The Lantern Vault.md",
+    "2-Campaign/Sol'Vareth Encounters/Altar of Vowfire.md",
+    "2-Campaign/Sol'Vareth Encounters/The Grove of Binding.md",
+    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Blightbound Dryad.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Hollowfang Wolf.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Ghostly Monk Initiates.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Flickering Dragonkin Spirit.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Corrupted Vine Horror.md",
+    "2-Campaign/Sol'Vareth Encounters/Lesser Restoration.md",
+    "3-Mechanics/CLI/spells/druidcraft-xphb.md",
+    "3-Mechanics/CLI/spells/lesser-restoration-xphb.md",
+    "2-Campaign/Quests/Rituals/The Lantern Vault.md",
+    "2-Campaign/Quests/Rituals/Altar of Vowfire.md",
+    "2-Campaign/Quests/Rituals/The Grove of Binding.md",
+    "z_Assets/blackstone_map.jpg",
+    "z_Assets/warlock_conductor.png",
+    "z_Assets/paladin_conductor.png",
+    "z_Assets/wizard_conductor.png",
+    "z_Assets/bard_conductor.png",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony",
+    "z_Assets/hollowfang_wolf.png",
+    "z_Assets/vine_horror.png",
+    "z_Assets/blighted_dryad.png",
+    "2-Campaign/Sol'Vareth Encounters/Monsters",
+    "z_Assets/dragonkin_spirit.png",
+    "z_Assets/ghost_monk.png",
+    "2-Campaign/Sol'Vareth Encounters",
+    "2-Campaign/Quests/Fogged Vale",
+    "2-Mechanics/CLI/rules",
+    "2-Mechanics/CLI",
+    "2-Mechanics",
+    "2-Campaign/Quests/Rituals",
+    "z_Assets/varnok.png.crdownload",
+    "z_Assets/vuremodor_corrupted.png.crdownload",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
