@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "2-World/Elaris/Varkuun.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Varkuun"
             }
           }
         ]
@@ -276,11 +276,13 @@
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "959c36b0aed8c0ff",
   "lastOpenFiles": [
+    "z_Example Notes/z_Example Notes.md",
     "3-Mechanics/Where To Get Mechanics.md",
     "3-Mechanics/Guilds and Groups/The Veylas Tribes.md",
     "3-Mechanics/Guilds and Groups/The Luminous Compact.md",
@@ -306,7 +308,6 @@
     "3-Mechanics/CLI/spells/lesser-restoration-xphb.md",
     "2-Campaign/Quests/Rituals/The Lantern Vault.md",
     "2-Campaign/Quests/Rituals/Altar of Vowfire.md",
-    "2-Campaign/Quests/Rituals/The Grove of Binding.md",
     "z_Assets/blackstone_map.jpg",
     "z_Assets/warlock_conductor.png",
     "z_Assets/paladin_conductor.png",

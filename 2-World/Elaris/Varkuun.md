@@ -21,17 +21,6 @@ exports:
 imports:
 ---
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewLocation");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Location Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
-
 > [!infobox]
 > # `=this.file.name` 
 > ![[varkuun.png]]
