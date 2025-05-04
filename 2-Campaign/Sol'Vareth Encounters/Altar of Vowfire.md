@@ -18,8 +18,9 @@ As you approach the summit, the golden scale you recovered from the Grove of Bin
 #### Pre-Ritual
 - As the scale begins to float, Varnok emerges from the shadow of a pillar, almost pained as the light shines from the sun and scale:
     
-    > “What vow would you carry through fire?  Reveal the promise that binds your spirit.”
+    > _“What vow would you carry through fire?  Reveal the promise that binds your spirit. Which among you can stand with your convictions?”_
     
+- Three fiery runes appear on the altar
 - Let players **nominate each other** to speak their vows. 
 
 #### Ritual
@@ -27,7 +28,7 @@ As you approach the summit, the golden scale you recovered from the Grove of Bin
 ###### Phase 1
 As the players enter the ritual circle, the golden scale floats into the air, glowing like an ember. Suddenly the scale shoots forward plunging itself into the scale shaped slot in the dragon statue. Varnok says:
 
-> _“_You must choose 3 among you who must pass judgement before the keepers scale... share your conviction, and prove your worth”__
+> _“You must choose 3 among you who must pass judgement before the keepers scale... share your conviction, and prove your worth”_
 
 Each player must approach the altar and **speak a personal vow aloud**, tied to their past and the growth they now claim. Their words must reflect a defining conviction—whether of vengeance, redemption, duty, protection, or transformation.
 

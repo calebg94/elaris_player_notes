@@ -58,7 +58,7 @@ Until your silence is full of life once more.”
 - Cast [[produce-flame-xphb|Produce Flame]], [[flame-blade-xphb|Flame Blade]], [[sacred-flame-xphb|Sacred Flame]], or [[druidcraft-xphb|Druidcraft]] to begin burning away the corruption.
     
 
-Nyx makes two checks (DC 13 each):
+Nyx makes one check (DC 13):
 
 - Nature, Religion, or Arcana to control the energy
     

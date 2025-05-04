@@ -5,7 +5,7 @@ obsidianUIMode: preview
 
 > [!cards|4]
 > **Map**
-> [![[Northern Faerun Map.jpg\|sban htiny ctr]]](2-World/Elaris/Elaris.md)
+> [![[elaris_final.jpg]]](2-World/Elaris/Elaris.md)
 > 
 > **Journey Board**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)

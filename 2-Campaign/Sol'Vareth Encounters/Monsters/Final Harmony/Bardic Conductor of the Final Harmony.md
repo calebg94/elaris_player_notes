@@ -42,3 +42,5 @@ reactions:
 
 ### Description
 	Once a court performer and master of emotional manipulation, the Bardic Conductor now wields music laced with psychic echoes and forgotten chords. Their melodies used to unravel the minds of those that would oppose Malachai's vision. More artist than zealot, they see the Final Harmony not as destruction—but as the completion of a symphony long abandoned by the gods.
+
+	Is responsible with sowing chaos and gaining new members in Blackstone
