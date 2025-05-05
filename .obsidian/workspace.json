@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Campaign/Sol'Vareth Encounters/The Last Light.md",
+                "file": "3-Mechanics/CLI/CLI.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "The Last Light"
+              "title": "CLI"
             }
           }
         ]
@@ -185,8 +185,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -209,8 +209,8 @@
             "state": {
               "type": "MAIN_VIEW",
               "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -219,8 +219,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -229,8 +229,28 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a59161e0dd94586b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "8fb827942ec0546e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -246,8 +266,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -282,9 +302,25 @@
   },
   "active": "959c36b0aed8c0ff",
   "lastOpenFiles": [
+    "3-Mechanics/NPCs/High Arcanist Velvine Aurasae.md",
+    "z_Assets/obsidian_bridge.png",
+    "z_Assets/paladin_conductor.png",
+    "z_Assets/sol_vareth_map_overview.png",
+    "z_Assets/sol_vareth_icons.png",
+    "z_Assets/scale_of_the_redeemed_flame.png",
+    "z_Assets/stone_of_the_echoing_vow.png",
+    "3-Mechanics/NPCs/Ashani Windroot.md",
+    "3-Mechanics/Items/Scale of Redeemed Flame.md",
+    "3-Mechanics/Items/Memory-Touched Bow.md",
+    "3-Mechanics/Items/Flamekeeper's Polearm.md",
+    "3-Mechanics/Guilds and Groups/The Crimson Dominion.md",
+    "3-Mechanics/CLI/CLI.md",
+    "2-World/Elaris/Elaris.md",
+    "2-Campaign/Quests/Quests.md",
+    "2-Campaign/Sol'Vareth Encounters/Monsters/Hollowfang Wolf.md",
+    "2-Campaign/Sol'Vareth Encounters/The Last Light.md",
     "2-World/Elaris/Sol'Vareth/Monk Monastery.md",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Vuremodor (Revenant).md",
-    "2-Campaign/Sol'Vareth Encounters/The Last Light.md",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Twilight Herold.md",
     "2-Campaign/Sol'Vareth Encounters/Altar of Vowfire.md",
     "z_Assets/final_boss_battlemap.png",
@@ -293,9 +329,7 @@
     "2-Campaign/Sol'Vareth Encounters/Monsters/Echo of Wyrmling Dragon.md",
     "z_Assets/echo_wyrmling.png",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Flickering Dragonkin Spirit.md",
-    "2-Campaign/Sol'Vareth Encounters/Monsters/Hollowfang Wolf.md",
     "2-Campaign/Quests/Rituals/The Grove of Binding.md",
-    "z_Assets/twilight_harold.png",
     "2-Campaign/Sol'Vareth Encounters/The Lantern Vault.md",
     "1-DM Toolkit/DnD5e-SideScreen-2024.md",
     "1-DM Toolkit/PF2e-DM Screen.md",
@@ -304,20 +338,6 @@
     "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony/Warlock Conductor of the Final Harmony.md",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony/Paladin Conductor of the Final Harmony.md",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony/Chronurgist Conductor of the Final Harmony.md",
-    "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony/Bardic Conductor of the Final Harmony.md",
-    "3-Mechanics/Guilds and Groups/The Final Harmony.md",
-    "2-Campaign/Sol'Vareth Encounters/The Grove of Binding.md",
-    "1-Session Journals/2025-04-19.md",
-    "2-Campaign/Quests/Fogged Vale/Thorin Encounter.md",
-    "2-World/Elaris/Varkuun.md",
-    "z_Example Notes/z_Example Notes.md",
-    "3-Mechanics/Where To Get Mechanics.md",
-    "3-Mechanics/Guilds and Groups/The Veylas Tribes.md",
-    "z_Assets/blackstone_map.jpg",
-    "z_Assets/warlock_conductor.png",
-    "z_Assets/paladin_conductor.png",
-    "z_Assets/wizard_conductor.png",
-    "z_Assets/bard_conductor.png",
     "2-Campaign/Sol'Vareth Encounters/Monsters/Final Harmony",
     "2-Campaign/Sol'Vareth Encounters/Monsters",
     "2-Campaign/Sol'Vareth Encounters",
